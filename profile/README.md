@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🙋‍♀️ libamtrack
 
 Library for detector response modelling
 
